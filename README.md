@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0141-linked-list-cycle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0141-linked-list-cycle) |
 ## Quicksort
 |  |
 | ------- |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

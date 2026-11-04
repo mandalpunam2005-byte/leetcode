@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
 | ------- |

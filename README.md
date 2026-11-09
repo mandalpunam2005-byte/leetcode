@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0202-happy-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0457-circular-array-loop) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
 |  |
 | ------- |

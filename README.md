@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0457-circular-array-loop) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0143-reorder-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/mandalpunam2005-byte/leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->

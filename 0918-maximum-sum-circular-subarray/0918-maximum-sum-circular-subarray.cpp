@@ -1,28 +1,30 @@
 class Solution {
 public:
     int maxSubarraySumCircular(vector<int>& nums) {
-        int totalSum = 0;
-        int currMax = 0, maxSum = nums[0];
-        int currMin = 0, minSum = nums[0];
-
-        for (int num : nums) {
-            // Kadane's for Maximum Subarray Sum
-            currMax = max(num, currMax + num);
+        int totalSum = nums[0];
+        
+        int currMax = nums[0];
+        int maxSum = nums[0];
+        
+        int currMin = nums[0];
+        int minSum = nums[0];
+        
+        for (size_t i = 1; i < nums.size(); ++i) {
+            int x = nums[i];
+            totalSum += x;
+            
+            currMax = max(x, currMax + x);
             maxSum = max(maxSum, currMax);
-
-            // Kadane's for Minimum Subarray Sum
-            currMin = min(num, currMin + num);
+            
+            currMin = min(x, currMin + x);
             minSum = min(minSum, currMin);
-
-            totalSum += num;
         }
-
-        // If all numbers are negative, maxSum will be negative and equal to max element.
-        // In this case, wrapping around is not allowed (would result in 0).
+        
+        // If all elements are negative, maxSum holds the maximum single element
         if (maxSum < 0) {
             return maxSum;
         }
-
+        
         return max(maxSum, totalSum - minSum);
     }
 };
